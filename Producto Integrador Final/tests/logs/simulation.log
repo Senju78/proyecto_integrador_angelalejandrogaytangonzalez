@@ -1,0 +1,12 @@
+2025-11-29 20:50:59,896 | ======================================================================
+2025-11-29 20:50:59,896 | SIMULADOR INICIADO - Planificador FCFS
+2025-11-29 20:50:59,896 | ======================================================================
+2025-11-29 20:51:33,377 | MEMORIA COMPARTIDA: buffer creada (tamano=5)
+2025-11-29 20:51:33,378 | SEMAFORO CREADO: mutex (valor=1)
+2025-11-29 20:51:33,378 | SEMAFORO CREADO: empty (valor=5)
+2025-11-29 20:51:33,378 | SEMAFORO CREADO: full (valor=0)
+2025-11-29 20:51:33,379 | ASIGNADO: P1 (512KB, 2 pags)
+2025-11-29 20:51:33,379 | ASIGNADO: P2 (512KB, 2 pags)
+2025-11-29 20:51:35,380 | CPU ASIGNADA: P1
+2025-11-29 20:51:45,401 | TERMINADO FORZADAMENTE: P1 - Finalizo su ejecucion
+2025-11-29 20:51:45,401 | TERMINADO FORZADAMENTE: P2 - Finalizo su ejecucion
